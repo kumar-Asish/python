@@ -1,0 +1,10 @@
+marks=[56,89,24,59]
+print(marks)
+marks[0]=98
+print(marks)
+print(len(marks))
+student=["Asish",12,"kolkata"]
+print(student)
+print(student[0])
+student[1]=9.9
+print(student)

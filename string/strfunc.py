@@ -1,0 +1,11 @@
+str="i am a coder"
+str1=str.endswith("co")
+print(str1)
+str=str.capitalize()
+print(str)
+str3=str.replace("o","a")
+print(str3)
+str4=str.find("o")
+print(str4)
+str5=str.count("am")
+print(str5)

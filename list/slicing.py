@@ -1,0 +1,9 @@
+marks=[87,64,33,95,76]
+a=marks[1:4]
+b=marks[:4]
+c=marks[1:]
+d=marks[-3:-1]
+print(a)
+print(b)
+print(c)
+print(d)
